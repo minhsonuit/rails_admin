@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f708f77b-bf64-4658-988b-6b9452dbf791" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20150505171411_add_customer_ref_to_detail_orders.rb" afterPath="" />
-    </list>
+    <list default="true" id="f708f77b-bf64-4658-988b-6b9452dbf791" name="Default" comment="" />
     <ignored path="rails_admin.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/components/" />
